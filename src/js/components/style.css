@@ -1,0 +1,32 @@
+.news-items-wrapper {
+  height: 500px;
+}
+.heading {
+  text-align: center;
+  background: #58a4b0;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  width: 100%;
+  font-size: 14px;
+}
+
+.news-container {
+  display: flex;
+  justify-content: center;
+}
+
+.left-side-panel {
+  overflow-y: auto;
+  height: 500px;
+  margin-bottom: 10px;
+}
+.highlight {
+  border: 5px solid orange;
+}
+.detail-box {
+  width: 50%;
+}
+span {
+  display: block;
+}
